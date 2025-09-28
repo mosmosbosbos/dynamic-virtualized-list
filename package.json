@@ -5,11 +5,9 @@
   "author": "Sudheer Timmaraju <sudheer.105@gmail.com> (https://github.com/sudheerDev/)",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/mattermost/dynamic-virtualized-list"
+    "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/mattermost/dynamic-virtualized-list/issues"
   },
   "engines": {
     "node": ">8.0.0"
